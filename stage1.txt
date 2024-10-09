@@ -1,1 +1,2 @@
-coded out shift cipher to decode the hint for stage 1.Brute forced one of the answers,unlocked the folder to stage 2
+coded out shift cipher to decode the hint for stage 1.Guessed it(i saw rsa,i used it),used shift 7 to get : RSA(878ZUV 8UYV87 8V7999 Y8TYU TWT8ZZ 8ZZVV7 T7Y9XZ 8UYWTU)
+as the password,unlocked the folder to stage 2.
