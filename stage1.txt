@@ -1,0 +1,1 @@
+coded out shift cipher to decode the hint for stage 1.Brute forced one of the answers,unlocked the folder to stage 2
