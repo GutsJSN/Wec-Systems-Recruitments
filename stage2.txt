@@ -1,2 +1,2 @@
 
-Figured out that it is rsa encyption.Using prime factorization,found out p to be 557 and q to be 757,which yields a d value of 1476.
+Figured out that it is rsa encyption.Using prime factorization,found out p to be 557 and q to be 757,which yields a d value of 74177.
